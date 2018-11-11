@@ -1,0 +1,29 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Friend finder application using Express and Node",
+  "main": "server.js",
+  "scripts": {
+    "test": "NA"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/narasimhan-ramesh5/FriendFinder.git"
+  },
+  "keywords": [
+    "friendfinder",
+    "friend",
+    "node",
+    "express"
+  ],
+  "author": "Narasimhan Ramesh",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/narasimhan-ramesh5/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/narasimhan-ramesh5/FriendFinder#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
